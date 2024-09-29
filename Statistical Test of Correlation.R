@@ -1,4 +1,4 @@
-#CDC 2024: Rishabh Singh, Sahasara Boga, Abel Saj, Alan Saj
+#CDC 2024: Rishabh Singh, Sahasra Boga, Abel Saj, Alan Saj
 #September 28th, 2024
 #
 rm(list = ls()) #Cleans environment
